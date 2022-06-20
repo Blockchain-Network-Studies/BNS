@@ -2,10 +2,10 @@
 Paper:[arxiv.org/abs/2205.04256](https://arxiv.org/abs/2205.04256)
 ## *Supplementary resources, data, and code*
 
-**by Ziqiao Ao<sup>#</sup>, and Gergely Horvath\*, Luyao Zhang\*, 
+**by Ziqiao Ao<sup>#</sup>, and Gergely Horvath\*, Luyao Zhang\***, 
 
 \*: joint corresponding authors
 
 \#: undergraduate advisee and mentee
 
-*names by the alphabetical order of the last names
+*names by the alphabetical order of the last names*

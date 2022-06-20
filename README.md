@@ -19,3 +19,4 @@
 |  Core-peripheral Analysis |  https://github.com/Blockchain-Network-Studies/BNS/tree/main/Core-peripheral_Analysis |  
 |Network Features|https://github.com/Blockchain-Network-Studies/BNS/tree/main/Network_Features | 
 |Regressions| https://github.com/Blockchain-Network-Studies/BNS/tree/main/Regressions| 
+|Invitation letter| https://github.com/Blockchain-Network-Studies/BNS/tree/main/invitation_letters|                                                                      

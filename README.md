@@ -28,7 +28,11 @@ Coming soon...
 
 # The Collection of Colab Notebooks
 
-Coming soon...
+|   **Notebook**   | **URL** | 
+|:------------|:---------|
+|   Notebook 1: Network and Core-periphery Analysis  | [https://github.com/Blockchain-Network-Studies/BNS/tree/main/Data](https://github.com/Blockchain-Network-Studies/BNS/blob/main/Network_Features/Notebook_1__network_core_periphery_analysis.ipynb)|   
+|  Notebook 2: Generate Merged Dataset| [https://github.com/Blockchain-Network-Studies/BNS/tree/main/Figures](https://github.com/Blockchain-Network-Studies/BNS/blob/main/Regressions/Notebook_2_Generate_Merged_Dataset.ipynb) |  
+|  Notebook 2: Visualization, Data Science and Economics Analysis|  [https://github.com/Blockchain-Network-Studies/BNS/tree/main/Core-peripheral_Analysis](https://github.com/Blockchain-Network-Studies/BNS/blob/main/Regressions/Notebook_3_Analysis.ipynb) |                                                       
 
 # Presentations
 

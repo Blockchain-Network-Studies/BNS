@@ -11,6 +11,7 @@
 
 *names by the alphabetical order of the last names*
 
+![image](https://github.com/Blockchain-Network-Studies/BNS/blob/main/Figures/Contribution_map.png)
 
 |   **Folder**   | **URL** | 
 |:------------|:---------|

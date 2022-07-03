@@ -23,8 +23,24 @@
 |Invitation letter| https://github.com/Blockchain-Network-Studies/BNS/tree/main/invitation_letters|                                                                      
 
 # The Collection of Datasets
+## Data Overview
 
-Coming soon...
+Num.
+Name
+Description
+Frequency
+
+
+
+|   **Name**   | **Description** |  **URL** | 
+|:------------|:---------|:---------|
+|   AAVE Raw Transfer   |  The Aave token raw transfer data records every transaction with Aave, including the address of the sender, and receiver, the transaction timestamp in each block and the transaction value.  | https://github.com/Blockchain-Network-Studies/BNS/blob/main/Data/Aave_Raw_Transfer_Data.csv|   
+|   AAVE Transfer after Preprocessing  |  Deviated from the raw transfer data, after converting timestamp to date and dropping all the transaction records that contain null addresses, the transaction values between the same two addresses are added together to one aggregated transaction by date. This dataset could be directly used for network feature calculation.| https://github.com/Blockchain-Network-Studies/BNS/blob/main/Data/AAVE_transaction_data_after_preprocessing.csv |  
+|   Network Features  |  This dataset contains 23 daily network topological features calculated from the Aave transaction data. | https://github.com/Blockchain-Network-Studies/BNS/blob/main/Data/AAVE_Network_Features.csv |  
+|  Merged Dataset  |The final dataset contains all the DeFi token-related economic features and network features, which could be directly used for quantitative analysis|https://github.com/Blockchain-Network-Studies/BNS/blob/main/Data/AAVE_Merged_Datasets.csv| 
+|  Core Addresses Appearance  |This dataset records all core addresses that appear at the selected time period and the number of days they become core, based on the daily networks constructed using a core-periphery algorithm. The type and information link of the addresses are contained as well.
+| https://github.com/Blockchain-Network-Studies/BNS/blob/main/Data/core_addresses_appearance.csv| 
+
 
 # The Collection of Colab Notebooks
 

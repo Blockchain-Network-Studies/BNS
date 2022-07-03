@@ -44,4 +44,10 @@
 
 # Presentations
 
-Coming soon...
+Slides for 29th Annual Global Finance Conference Presentation
+
+Braga, Portugal ​
+
+Date: 6/21/2022
+
+https://github.com/Blockchain-Network-Studies/BNS/blob/main/invitation_letters/BNS_Slides.pdf

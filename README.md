@@ -13,14 +13,14 @@ This repository contains the replicable data and code for research entitled "Is 
 
 ## Table of Contents:
 
-- Code
+- [Code](https://github.com/Blockchain-Network-Studies/BNS/tree/main/Code)
     - Jupyter Notebooks for data analysis
     - Scripts for data processing and visualization
-- Data
+- [Data](https://github.com/Blockchain-Network-Studies/BNS/tree/main/Data)
     - Raw data sets used in the study
     - Processed data files
 
-- Appendix
+- [Appendix](https://github.com/Blockchain-Network-Studies/BNS/tree/main/Appendix)
     - Additional analyses
     - Supplementary data interpretations
 

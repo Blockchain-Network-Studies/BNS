@@ -28,3 +28,15 @@ This repository contains the replicable data and code for research entitled "Is 
     - Additional analyses
     - Supplementary data interpretations
 
+### Notes on update large data files:
+
+- Install Git LFS by running
+```
+git lfs install
+```
+- Track large files with 
+
+```
+git lfs track "*.csv"
+```
+- Commit and push as usual. The large files will be managed by Git LFS.

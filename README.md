@@ -12,13 +12,15 @@ This repository contains the replicable data and code for research entitled "Is 
 
 
 ## Table of Contents:
-- Appendix
-    - Additional analyses
-    - Supplementary data interpretations
+
 - Code
     - Jupyter Notebooks for data analysis
     - Scripts for data processing and visualization
 - Data
     - Raw data sets used in the study
     - Processed data files
+
+- Appendix
+    - Additional analyses
+    - Supplementary data interpretations
 

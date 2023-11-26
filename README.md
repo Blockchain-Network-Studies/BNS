@@ -9,8 +9,9 @@ This repository contains the replicable data and code for research entitled "Is 
     <p><strong>ACM CCS</strong>: E.0, G.1, G.3,  I.6, J.4, J.6</p>
     <p><strong>JEL Code</strong>: C15, C22, C23, C58, C63, C81, G17</p>
     <h2 style="color: blue;">Note</h2>
-    <p style="color: green;">In line with the web3 ethos, this study provides open-source data and code, ensuring transparency and facilitating replicability. These resources are available at our GitHub repository, underscoring our commitment to decentralized, community-driven research practices.</p>
+    <p style="color: green;">In line with the web3 ethos, this study provides open source data and code, ensuring transparency and facilitating replicability. These resources are available at our GitHub repository, underscoring our commitment to decentralized, community-driven research practices. Our Python code in Jupyter Notebook can be run on both the cloud computing platform Google Colab or locally.</p>
 </div>
+
 
 
 

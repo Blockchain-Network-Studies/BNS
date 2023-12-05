@@ -6,9 +6,13 @@
    <strong>Innovation and Inclusivity Statements</strong>:
    In line with the web3 ethos, this study provides open-source data and code, ensuring transparency and facilitating replicability. These resources are available at our GitHub repository, underscoring our commitment to decentralized, community-driven research practices. Our Python code in Jupyter Notebook can be run on both the cloud computing platform Google Colab and locally. We are dedicated to promoting diversity and inclusion, not only as research advocates but also in our own research practices.</p>
 </blockquote>
+
 Full datasets are also available on Harvard Dataverse:
+
 <blockquote style="color: green;">
- Ao, Ziqiao; Cong, Lin William; Horvath, Gergely; Zhang, Luyao, 2023, "Replication Data for: Is decentralized finance actually decentralized? A social network analysis of the Aave protocol on the Ethereum blockchain", <a href="https://doi.org/10.7910/DVN/LFBGQD" style="color:lightblue;">https://doi.org/10.7910/DVN/LFBGQD</a>, Harvard Dataverse, V1, UNF:6:rvMrwtwBnWhL2JYSNNs3aQ== <span style="color:lightblue;">[fileUNF]</span>
+   
+   Ao, Ziqiao; Cong, Lin William; Horvath, Gergely; Zhang, Luyao, 2023, "Replication Data for: Is decentralized finance actually decentralized? A social network analysis of the Aave protocol on the Ethereum blockchain", <a href="https://doi.org/10.7910/DVN/LFBGQD" style="color:lightblue;">https://doi.org/10.7910/DVN/LFBGQD</a>, Harvard Dataverse, V1.
+   
 </blockquote>
 
 <blockquote style="color: green;">

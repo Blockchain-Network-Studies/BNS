@@ -1,6 +1,11 @@
 # Blockchain Network Studies
 
-This repository contains the replicable data and code for research entitled "Is decentralized finance actually decentralized? A social network analysis of the Aave protocol on the Ethereum blockchain." 
+*This repository contains the replicable data and code for research entitled "Is decentralized finance actually decentralized? A social network analysis of the Aave protocol on the Ethereum blockchain."*
+
+<blockquote style="color: green;">
+   <strong>Innovation and Inclusivity Statements</strong>:
+   In line with the web3 ethos, this study provides open-source data and code, ensuring transparency and facilitating replicability. These resources are available at our GitHub repository, underscoring our commitment to decentralized, community-driven research practices. Our Python code in Jupyter Notebook can be run on both the cloud computing platform Google Colab and locally. We are dedicated to promoting diversity and inclusion, not only as research advocates but also in our own research practices.</p>
+</blockquote>
 
 <div>
     <h2>Abstract</h2>
@@ -8,9 +13,6 @@ This repository contains the replicable data and code for research entitled "Is 
     <p><strong>Keywords</strong>: Decentralized finance, social network analysis, AAVE, Ethereum, core-periphery, modularity, giant component ratio</p>
     <p><strong>ACM CCS</strong>: E.0, G.1, G.3,  I.6, J.4, J.6</p>
     <p><strong>JEL Code</strong>: C15, C22, C23, C58, C63, C81, G17</p>
-    <h2 style="color: blue;">Innovation and Inclusivity Statements</h2>
-    <p style="color: green;">In line with the web3 ethos, this study provides open-source data and code, ensuring transparency and facilitating replicability. These resources are available at our GitHub repository, underscoring our commitment to decentralized, community-driven research practices. Our Python code in Jupyter Notebook can be run on both the cloud computing platform Google Colab and locally. We are dedicated to promoting diversity and inclusion, not only as research advocates but also in our own research practices.</p>
-</div>
 
 
 

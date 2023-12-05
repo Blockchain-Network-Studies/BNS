@@ -28,15 +28,15 @@
     - Raw data sets used in the study
     - Processed data files
  
-*Full datasets are also available on Harvard Dataverse*:
+- [Appendix](https://github.com/Blockchain-Network-Studies/BNS/tree/main/Appendix)
+    - Additional analyses
+    - Supplementary data interpretations
+ 
+## Full datasets are also available on Harvard Dataverse*:
 
 <blockquote style="color: green;">  
 Ao, Ziqiao; Cong, Lin William; Horvath, Gergely; Zhang, Luyao, 2023, "Replication Data for: Is decentralized finance actually decentralized? A social network analysis of the Aave protocol on the Ethereum blockchain", <a href="https://doi.org/10.7910/DVN/LFBGQD" style="color:lightblue;">https://doi.org/10.7910/DVN/LFBGQD</a>, Harvard Dataverse, V1.
 </blockquote>
-
-- [Appendix](https://github.com/Blockchain-Network-Studies/BNS/tree/main/Appendix)
-    - Additional analyses
-    - Supplementary data interpretations
 
 ## Notes on updating large data files:
 

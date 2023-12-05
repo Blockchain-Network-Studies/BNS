@@ -7,7 +7,7 @@
    In line with the web3 ethos, this study provides open-source data and code, ensuring transparency and facilitating replicability. These resources are available at our GitHub repository, underscoring our commitment to decentralized, community-driven research practices. Our Python code in Jupyter Notebook can be run on both the cloud computing platform Google Colab and locally. We are dedicated to promoting diversity and inclusion, not only as research advocates but also in our own research practices.</p>
 </blockquote>
 
-Full datasets are also available on Harvard Dataverse:
+*Full datasets are also available on Harvard Dataverse*:
 
 <blockquote style="color: green;">
    

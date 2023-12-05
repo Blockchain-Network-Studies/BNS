@@ -1,4 +1,4 @@
-# Blockchain Network Studies
+# Blockchain Network Studies  [![DOI](https://zenodo.org/badge/503755689.svg)](https://zenodo.org/doi/10.5281/zenodo.8171943)
 
 *This repository contains the replicable data and code for research entitled "Is decentralized finance actually decentralized? A social network analysis of the Aave protocol on the Ethereum blockchain."*
 
